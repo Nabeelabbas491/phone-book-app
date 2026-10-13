@@ -1,0 +1,3 @@
+# Keep LF endings so shell scripts and Dockerfiles work in Linux containers and Cloud Build.
+* text=auto eol=lf
+*.png binary
